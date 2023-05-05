@@ -1,0 +1,30 @@
+## Profile
+
+A graduate student. Major in mechanical engineering. Born on Aug, 2000.
+
+### Hobbies
+
+Rhythm games, bowling, programming, electronic handicraft, etc.
+
+### Languages / Frameworks
+#### Work experienced
+- Python
+  - Django
+- JavaScript
+  - Vue.js / Nuxt.js
+
+#### In hobby
+- C#
+  - WPF
+- Java
+- PHP
+- C/C++
+- some brainf**k-like
+
+
+### Stats
+| [![sr8e's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr8e&count_private=true&ring_color=11faac&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![sr8e's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr8e&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=lua)](https://github.com/anuraghazra/github-readme-stats) |
+| -- | -- |
+
+### Trophies
+[![sr8e's trophy](https://github-profile-trophy.vercel.app/?username=sr8e&no-frame=true&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
