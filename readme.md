@@ -2,6 +2,9 @@
 
 A graduate student. Major in mechanical engineering. Born on Aug, 2000.
 
+### National qualification
+- 2nd class qualified electrician
+
 ### Hobbies
 
 Rhythm games, bowling, programming, electronic handicraft, etc.
