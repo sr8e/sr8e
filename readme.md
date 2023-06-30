@@ -3,7 +3,8 @@
 A graduate student. Major in mechanical engineering. Born on Aug, 2000.
 
 ### National qualification
-- 2nd class qualified electrician
+- 第二種電気工事士 2nd class qualified electrician
+- 応用情報技術者 Applied Information Technology Engineer
 
 ### Hobbies
 
