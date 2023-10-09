@@ -1,6 +1,6 @@
 ## Profile
 
-A graduate student. Major in mechanical engineering. Born on Aug, 2000.
+A graduate student. Major in mechanical engineering. Born on Aug 11th, 2000.
 
 ### National qualification
 - 第二種電気工事士 2nd class qualified electrician
