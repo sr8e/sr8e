@@ -21,6 +21,8 @@ Rhythm games, bowling, programming, electronic handicraft, etc.
 - C#
   - WPF
 - Java
+- Kotlin
+  - Jetpack Compose 
 - PHP
 - C/C++
 - some brainf**k-like
