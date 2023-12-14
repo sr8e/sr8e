@@ -3,7 +3,7 @@
 A graduate student. Major in mechanical engineering. Born on Aug 11th, 2000.
 
 ### National qualification
-- 第二種電気工事士 2nd class qualified electrician
+- 第二種電気工事士 2nd Class Qualified Electrician
 - 応用情報技術者 Applied Information Technology Engineer
 
 ### Hobbies
@@ -17,14 +17,15 @@ Rhythm games, bowling, programming, electronic handicraft, etc.
 - JavaScript
   - Vue.js / Nuxt.js
 
-#### In hobby
+#### In hobby/studying
+- C/C++
 - C#
   - WPF
+- Fortran 
 - Java
 - Kotlin
   - Jetpack Compose 
 - PHP
-- C/C++
 - some brainf**k-like
 
 
