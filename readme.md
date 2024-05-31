@@ -21,11 +21,14 @@ Rhythm games, bowling, programming, electronic handicraft, etc.
 - C/C++
 - C#
   - WPF
-- Fortran 
+- Fortran
+- Go
 - Java
 - Kotlin
   - Jetpack Compose 
 - PHP
+- TypeScript
+  - React
 - some brainf**k-like
 
 
