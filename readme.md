@@ -5,6 +5,7 @@ A graduate student. Major in mechanical engineering. Born on Aug 11th, 2000.
 ### National qualification
 - 第二種電気工事士 2nd Class Qualified Electrician
 - 応用情報技術者 Applied Information Technology Engineer
+- ネットワークスペシャリスト Network Specialist
 
 ### Hobbies
 
